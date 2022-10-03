@@ -6,11 +6,11 @@ td {
 }
 
 .symbole_0{
-	background-image:url("../images/morpion/0.png");
+	background-image:url("./0.png");
 }
 
 .symbole_1{
-	background-image:url("../images/morpion/1.png");
+	background-image:url("./1.png");
 }
 
 .symbole_1, .symbole_0 {
