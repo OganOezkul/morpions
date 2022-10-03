@@ -1,0 +1,18 @@
+﻿
+td {
+	width: 100px;
+	height: 80px;
+	text-align: center;
+}
+
+.symbole_0{
+	background-image:url("../images/morpion/0.png");
+}
+
+.symbole_1{
+	background-image:url("../images/morpion/1.png");
+}
+
+.symbole_1, .symbole_0 {
+    background-size: cover;
+}
